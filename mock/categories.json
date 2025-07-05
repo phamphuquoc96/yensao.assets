@@ -1,0 +1,32 @@
+[
+  {
+    "id": 49234,
+    "name": "Yến tinh chế",
+    "image": "https://zalo-miniapp.github.io/zaui-market/dummy/category/fruits.png"
+  },
+  {
+    "id": 921054437,
+    "name": "Yến thô",
+    "image": "https://zalo-miniapp.github.io/zaui-market/dummy/category/meat.png"
+  },
+  {
+    "id": 1535049245,
+    "name": "Nước yến chưng",
+    "image": "https://zalo-miniapp.github.io/zaui-market/dummy/category/fish.png"
+  },
+  {
+    "id": 921054439,
+    "name": "N.Liệu chưng yến",
+    "image": "https://zalo-miniapp.github.io/zaui-market/dummy/category/egg.png"
+  },
+  {
+    "id": 307049452,
+    "name": "P.Kiện chưng yến",
+    "image": "https://zalo-miniapp.github.io/zaui-market/dummy/category/bread.png"
+  },
+  {
+    "id": 1228053746,
+    "name": "Sản phẩm khác",
+    "image": "https://zalo-miniapp.github.io/zaui-market/dummy/category/cookies.png"
+  }
+]
